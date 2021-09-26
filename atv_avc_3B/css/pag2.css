@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient( 45deg, #0b160c, #057b44, #892CDC, #d19bf5);
+    background-size: 300% 300%;
+    animation: colors 5s ease infinite;
+}
+
+@keyframes colors{
+    0%{background-position: 0%, 50%;}
+
+    50%{background-position: 100%, 50%;}
+
+    100%{background-position: 0%, 50%;}
+}
+
+#container{padding: 80px;
+    width: 83.5vw;
+    height: 70vh;
+    margin: 0 auto;
+    align-items: center;}
+
+img.a1{width: 83.5vw;
+    height: 100vh;}
+
+
+h1{padding: 20px;}
+
+.pos-f-t{opacity: 1;}
+
+footer{height: 80px;
+    text-align: center;
+    padding: 25px;}
+
+

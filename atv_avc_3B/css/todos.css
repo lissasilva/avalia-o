@@ -1,0 +1,20 @@
+.container{width: 900px;
+        height: 80vh;
+        margin: 0 auto;
+        align-items: center;
+        background-color: black;
+}
+
+header{width: 100vw;
+        height: 8.5vh;
+        }
+
+.pos-f-t{opacity: 0.7;
+}
+        
+
+span{text-decoration: none;}
+
+h1{text-align: center;
+        text-shadow: solid 1px blueviolet;
+}

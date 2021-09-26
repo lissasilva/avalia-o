@@ -1,0 +1,26 @@
+.container{display: grid;
+        width: 90vw;
+        height: 99vh;
+        background-color: transparent;
+        margin-top: 0;
+        padding: 0;
+}
+
+body{background-image: url(./img/wallpaperbetter.jpg);}
+
+img{height: 180px;
+    width: 260px;}
+
+.col-sm{margin: 20px;
+        padding: 0%;}
+
+
+footer{height: 60px;
+    text-align: center;
+    padding: 20px;}
+
+h1{padding-top: 70px;
+    margin: 0;}
+
+.card{margin: 20px;
+    margin-top: initial}

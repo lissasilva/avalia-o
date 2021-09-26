@@ -1,0 +1,37 @@
+#bgvid{position: relative;
+                width: 98.75vw;
+                min-height: 100vh;
+                margin: 0 auto;
+                text-align: center;}
+
+body{text-align: center;}
+
+.caption{position: absolute;
+        top: 43%;
+        width: 100%;
+        color: white;}
+
+footer{height: 70px;
+    text-align: center;}
+
+.redi{border-radius: 28px;
+    background-color: rgb(255, 255, 255);
+    width: 120px;
+    height: 25px;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+    padding-top: 2px;}
+
+a{text-decoration: none;}
+
+h6{margin-left: 25%;
+    margin-right: 25%;
+    text-align: justify;
+    font-size: 25px;}
+
+footer{padding-top: 20px;}
+
+.alert{text-align: center;
+        width: 680px;
+        margin: auto;}
